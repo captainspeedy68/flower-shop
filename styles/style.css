@@ -78,6 +78,8 @@ text1{
     color: rgba(39, 39, 39, 0.6);
     text-align: center;
 }
+
+/* 3 images in the middle */
 .back-rect{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -99,4 +101,17 @@ text1{
     margin-top: 100px;
     width: 250px;
     height: 350px;
+}
+.flower-tree{
+    color: #272727;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    padding-top: 0px;
+    padding-left: 230px;
+    margin-left: 75px;
+    margin-bottom: 50px;
+    margin-top: 0px;
 }
