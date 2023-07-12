@@ -293,11 +293,28 @@ body {
     font-size: 50px;
     box-sizing: border-box;
     size: 300px;
-    border: 0px;
+    /* border: 0px; */
 }
 input[type = "text"]{
-    width: 600px;
+    width: 400px;
     height: 30px;
     padding: 10px;
     font-size: large;
+    border: 0px;
+}
+.last-btn{
+    color: #FFF;
+    padding: 16px 30px;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-flex;
+    /* padding: 20px 43px; */
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    border: 0px;
+    background: #E55473;
 }
