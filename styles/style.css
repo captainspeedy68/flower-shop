@@ -17,8 +17,6 @@ body {
     gap: 70px;
     padding: 145px 30px 30px 240px;
     align-items: center;
-
-    
 }
 /* .text-head{
 
@@ -92,7 +90,7 @@ text1{
     height: 538px;
     flex-shrink: 0;
     /* margin: 10px; */
-    margin-left: 180px;
+    margin-left: 240px;
     /* width: 340px;
     height: 390px; */
 }
@@ -212,4 +210,67 @@ text1{
 .btn-2nd{
     text-align: center;
     margin-left: 230px;
+}
+
+/* done with this section as well */
+
+/* Here starts the instagram section */
+.insta{
+    text-align: center;
+}
+.insta-h{
+    color: #272727;
+    /* text-align: center; */
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: -50px;
+    margin-top: 300px;
+    /* margin-bottom: 0px; */
+    /* padding: 145px 30px 30px 240px; */
+}
+/* .insta-p{
+    display: flex;
+    width: 594px;
+    /* flex-direction: column; */
+    /* flex-shrink: 0; */
+    /* font-size: 18px;
+    font-style: normal; */
+    /* font-weight: 400; */
+    /* line-height: 30px; */
+    
+
+.insta-p{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    /* line-height: 30px;
+    line-height: 30px; */
+    margin-left: 600px;
+    display: flex;
+}
+
+/* here ends the code for insta section */
+
+/* her comes the section of rectangular flowers */
+.lower-img{
+    align-items: center;
+    display: flex;
+}
+
+#rectid{
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+    padding: 20px;
+}
+.rect1{
+    margin-left: 180px;
+}
+
+.rect2{
+
 }
