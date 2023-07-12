@@ -288,7 +288,8 @@ text1{
 .last{
     margin-top: 200px;
     margin-bottom: 200px;
-    background-image: url("../assets/Rectangle\ 9.png");
+    /* background-image: url("../assets/Rectangle 9.png"); */
+    background-image: url("Rectangle 9.png");
     background-size: contain;
     background-repeat: no-repeat;
     /* width: 1440px; */
