@@ -63,6 +63,37 @@ body {
     margin-right: 0px;
 }
 
+/* extra */
+/* .video-back{
+    background-color: #E55473;
+    align-items: center;
+    margin: 200px;
+    width: 1000px;
+    height: 300px;
+    
+} */
+.vid.txt{
+    text-align: center;
+    /* padding-left: 1000px; */
+    color: white;
+    margin-top: ;
+}
+.video{
+    color: black;
+    /* padding-left: 1000px; */
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: white;
+    align-items: center;
+    margin: 150px;
+    width: 600px;
+    height: 400px;
+    margin-left: 420px;
+
+}
+
+/* ends */
+
 /* main body */
 .headline2{
     color: #272727;
