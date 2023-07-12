@@ -16,6 +16,7 @@ body {
     display: flex;*/
     gap: 70px;
     padding: 145px 30px 30px 240px;
+    align-items: center;
 
     
 }
@@ -80,6 +81,10 @@ text1{
 }
 
 /* 3 images in the middle */
+.mid-img{
+    align-items: center;
+    display: flex;
+}
 .back-rect{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -114,4 +119,54 @@ text1{
     margin-left: 75px;
     margin-bottom: 50px;
     margin-top: 0px;
+    /* align-items: center; */
+}
+.tree-more{
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-bottom: 50px;
+}
+
+.back-rect2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 400px;
+    height: 538px;
+    flex-shrink: 0;
+    padding-right: 60px;
+    margin: 24px;
+    /* margin-left: 180px; */
+}
+.style-fl-2{
+    padding-right: 500px;
+}
+
+.back-rect3{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    display: flex;
+    margin-right: 180px;
+    margin-top: 100px;
+}
+.styl-more{
+    padding: 0px;
+    padding-left: 50px;
+}
+.tree3{
+    /* color: #272727;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    padding: 0px;
+    padding-top: 10px; */
+    padding-left: 75px;
 }
