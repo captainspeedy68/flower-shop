@@ -79,6 +79,9 @@ text1{
 }
 
 /* 3 images in the middle */
+.main1{
+    /* margin-left: 500px; */
+}
 .mid-img{
     align-items: center;
     display: flex;
@@ -90,7 +93,7 @@ text1{
     height: 538px;
     flex-shrink: 0;
     /* margin: 10px; */
-    margin-left: 240px;
+    margin-left: 365px;
     /* width: 340px;
     height: 390px; */
 }
@@ -114,7 +117,7 @@ text1{
     text-decoration-line: underline;
     padding-top: 0px;
     padding-left: 230px;
-    margin-left: 75px;
+    margin-left: 250px;
     margin-bottom: 50px;
     margin-top: 0px;
     /* align-items: center; */
@@ -167,6 +170,7 @@ text1{
     padding: 0px;
     padding-top: 10px; */
     padding-left: 75px;
+    margin-left: 65px;
 }
 /* here ends the flower section */
 
@@ -183,7 +187,8 @@ text1{
     
 }
 .mar{
-    margin-left: 200px;
+    margin-left: 300px;
+    margin-right: 100px;
 }
 .second-head-font{
     color: #272727;
@@ -249,7 +254,8 @@ text1{
     font-weight: 400;
     /* line-height: 30px;
     line-height: 30px; */
-    margin-left: 600px;
+    margin-left: 765px;
+    /* margin-bottom: 50px; */
     display: flex;
 }
 
@@ -259,6 +265,7 @@ text1{
 .lower-img{
     align-items: center;
     display: flex;
+    margin-top: 50px;
 }
 
 #rectid{
@@ -268,7 +275,7 @@ text1{
     padding: 20px;
 }
 .rect1{
-    margin-left: 180px;
+    margin-left: 300px;
 }
 
 .rect2{
