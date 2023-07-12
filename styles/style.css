@@ -10,27 +10,34 @@ body {
 .first{
     background: rgba(229, 84, 115, 0.10);
     display: flex;
-    height: 740px;
-    gap: 70px;
-    padding: 145px 30px 30px 240px;
+    height: 800px;
+    /* gap: 70px; */
+    /* padding: 75px 30px 30px 100px; */
+    padding-bottom: 50px;
+    padding-left: 70px;
     align-items: center;
 }
 
 .headline{
     color: #272727;
-    font-family: Lato;
-    font-size: 40px;
+    font-size: 60px;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 800px;
     line-height: normal;
 }
-text1{
+.text1{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    display: flex;
+    width: 634px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    padding: 145px 30px 30px 240px;
+
+    /* padding: 145px 30px 30px 240px; */
 }
 .btn-primary{
     color: #FFF;
@@ -47,6 +54,13 @@ text1{
     border-radius: 8px;
     border: 0px;
     background: #E55473;
+}
+
+.flower1{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 500px;
+    margin-right: 0px;
 }
 
 /* main body */
