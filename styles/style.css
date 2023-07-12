@@ -81,6 +81,7 @@ text1{
 /* 3 images in the middle */
 .main1{
     /* margin-left: 500px; */
+    margin-top: 200px;
 }
 .mid-img{
     align-items: center;
@@ -280,4 +281,54 @@ text1{
 
 .rect2{
 
+}
+
+/* the rectangular images section ends here */
+
+.last{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background-image: url("../assets/Rectangle\ 9.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* width: 1440px; */
+    height: 449px;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+}
+.in{
+    padding-top: 100px;
+    align-items: center;
+}
+.last-h{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.last-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.input-last{
+    height: 400px;
+    font-size: 50px;
+    box-sizing: border-box;
+    size: 300px;
+    border: 0px;
+}
+input[type = "text"]{
+    width: 600px;
+    height: 30px;
+    padding: 10px;
+    font-size: large;
 }
