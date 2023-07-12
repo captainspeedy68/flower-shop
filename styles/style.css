@@ -79,6 +79,7 @@ text1{
 }
 
 /* 3 images in the middle */
+
 .main1{
     /* margin-left: 500px; */
     margin-top: 200px;
@@ -86,43 +87,41 @@ text1{
 .mid-img{
     align-items: center;
     display: flex;
+
+}
+#rect-resize{
+    /* margin-top: 100px; */
+    margin: 200px;
+    align-items: center;
+}
+#flower-resize{
+    width: 300px;
+    height: 300px;
+    display: flex;
 }
 .back-rect{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    width: 464px;
-    height: 538px;
-    flex-shrink: 0;
-    /* margin: 10px; */
-    margin-left: 365px;
-    /* width: 340px;
-    height: 390px; */
+    width: 300px;
+    height: 438px;
+    margin: 10px;
 }
 .style{
-    display: flex;
-    gap: 60px;
-    padding-top: 100px;
-    padding-left: 30px;
-    margin-left: 75px;
-    margin-bottom: 100px;
-    margin-top: 100px;
-    width: 250px;
-    height: 350px;
+    /* display: flex; */
+    /* gap: 60px; */
+    /* width: 250px;
+    height: 350px; */
 }
-.flower-tree{
+/* .flower-tree{
     color: #272727;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+
     padding-top: 0px;
-    padding-left: 230px;
-    margin-left: 250px;
-    margin-bottom: 50px;
-    margin-top: 0px;
-    /* align-items: center; */
-}
+} */
 .tree-more{
     text-align: center;
     font-size: 24px;
@@ -130,48 +129,35 @@ text1{
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
-    margin-bottom: 50px;
 }
 
 .back-rect2{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    width: 400px;
-    height: 538px;
+    width: 300px;
+    height: 438px;
     flex-shrink: 0;
-    padding-right: 60px;
-    margin: 24px;
-    /* margin-left: 180px; */
+    margin: 10px;
+
 }
 .style-fl-2{
-    padding-right: 500px;
+    padding-right: 100px;
+    margin-left: 10px;
 }
 
 .back-rect3{
-    width: 464px;
-    height: 538px;
+
+    width: 300px;
+    height: 438px;
     flex-shrink: 0;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     display: flex;
-    margin-right: 180px;
-    margin-top: 100px;
+    margin: 10px;
 }
 .styl-more{
     padding: 0px;
     padding-left: 50px;
-}
-.tree3{
-    /* color: #272727;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 35px;
-    text-decoration-line: underline;
-    padding: 0px;
-    padding-top: 10px; */
-    padding-left: 75px;
-    margin-left: 65px;
 }
 /* here ends the flower section */
 
@@ -183,9 +169,9 @@ text1{
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
     align-items: center;
-    padding: 145px 30px 30px 240px;
+    /* padding: 145px 30px 30px 240px; */
     display: flex;
-    
+
 }
 .mar{
     margin-left: 300px;
@@ -236,15 +222,6 @@ text1{
     /* margin-bottom: 0px; */
     /* padding: 145px 30px 30px 240px; */
 }
-/* .insta-p{
-    display: flex;
-    width: 594px;
-    /* flex-direction: column; */
-    /* flex-shrink: 0; */
-    /* font-size: 18px;
-    font-style: normal; */
-    /* font-weight: 400; */
-    /* line-height: 30px; */
     
 
 .insta-p{
@@ -255,7 +232,7 @@ text1{
     font-weight: 400;
     /* line-height: 30px;
     line-height: 30px; */
-    margin-left: 765px;
+    margin-left: 400px;
     /* margin-bottom: 50px; */
     display: flex;
 }
@@ -266,17 +243,24 @@ text1{
 .lower-img{
     align-items: center;
     display: flex;
-    margin-top: 50px;
+    margin-top: 100px;
+    margin: 100px;
+    /* padding-right: 500px; */
 }
 
+.resize{
+    align-items: center;
+    display: flex;
+}
 #rectid{
-    width: 342px;
-    height: 396px;
-    flex-shrink: 0;
-    padding: 20px;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    /* flex-shrink: 0; */
+    /* padding: 20px; */
 }
 .rect1{
-    margin-left: 300px;
+    /* margin-left: 0px; */
 }
 
 .rect2{
@@ -288,12 +272,16 @@ text1{
 .last{
     margin-top: 200px;
     margin-bottom: 200px;
+    align-items: center;
+    text-align: center;
+    margin-left: 200px;
     /* background-image: url("../assets/Rectangle 9.png"); */
     background-image: url("Rectangle 9.png");
     background-size: contain;
     background-repeat: no-repeat;
     /* width: 1440px; */
-    height: 449px;
+    height: 500px;
+    width: 1000px;
     background-position: center;
     align-items: center;
     text-align: center;
