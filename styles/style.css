@@ -6,21 +6,15 @@ body{
 body {
     overflow-x: hidden;
   }
+  
 .first{
     background: rgba(229, 84, 115, 0.10);
     display: flex;
-    height: 850px;
-    /* flex-shrink: 0;
-    margin: 0px;
-    padding: 0px;
-    display: flex;*/
+    height: 740px;
     gap: 70px;
     padding: 145px 30px 30px 240px;
     align-items: center;
 }
-/* .text-head{
-
-} */
 
 .headline{
     color: #272727;
@@ -29,9 +23,6 @@ body {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    /* padding: 145px 30px 30px 240px; */
-    /* margin-bottom: 0px; */
-
 }
 text1{
     color: rgba(39, 39, 39, 0.60);
@@ -39,8 +30,6 @@ text1{
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
-    /* margin-top: 30px;
-    margin-bottom: 30px; */
     padding: 145px 30px 30px 240px;
 }
 .btn-primary{
@@ -59,9 +48,6 @@ text1{
     border: 0px;
     background: #E55473;
 }
-/* .image1{
-    background-size: contain;
-} */
 
 /* main body */
 .headline2{
@@ -79,9 +65,7 @@ text1{
 }
 
 /* 3 images in the middle */
-
 .main1{
-    /* margin-left: 500px; */
     margin-top: 200px;
 }
 .mid-img{
@@ -91,7 +75,7 @@ text1{
 }
 #rect-resize{
     /* margin-top: 100px; */
-    margin: 200px;
+    margin: 235px;
     align-items: center;
 }
 #flower-resize{
@@ -107,21 +91,10 @@ text1{
     margin: 10px;
 }
 .style{
-    /* display: flex; */
-    /* gap: 60px; */
-    /* width: 250px;
-    height: 350px; */
+    padding-top: 135px;
+    padding-left: 40px;
 }
-/* .flower-tree{
-    color: #272727;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 35px;
-    text-decoration-line: underline;
 
-    padding-top: 0px;
-} */
 .tree-more{
     text-align: center;
     font-size: 24px;
@@ -138,15 +111,12 @@ text1{
     height: 438px;
     flex-shrink: 0;
     margin: 10px;
-
 }
-.style-fl-2{
-    padding-right: 100px;
-    margin-left: 10px;
+#flower2{
+    padding-left: 20px;
 }
 
 .back-rect3{
-
     width: 300px;
     height: 438px;
     flex-shrink: 0;
@@ -154,10 +124,6 @@ text1{
     background: rgba(71, 125, 17, 0.15);
     display: flex;
     margin: 10px;
-}
-.styl-more{
-    padding: 0px;
-    padding-left: 50px;
 }
 /* here ends the flower section */
 
@@ -174,7 +140,7 @@ text1{
 
 }
 .mar{
-    margin-left: 300px;
+    margin-left: 200px;
     margin-right: 100px;
 }
 .second-head-font{
