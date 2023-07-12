@@ -76,7 +76,8 @@ body {
     text-align: center;
     /* padding-left: 1000px; */
     color: white;
-    margin-top: ;
+    /* margin-top: ; */
+    display: inline-block;
 }
 .video{
     color: black;
